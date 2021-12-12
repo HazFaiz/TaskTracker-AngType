@@ -1,3 +1,11 @@
+If you'd like to run this project on your own machine, use the following commands:
+
+"ng serve" to start a dev env in your machine.
+"npm run server" to start the local json-server which houses all of the backend data.
+
+Enjoy!
+---------------------
+
 # AngularTask
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
